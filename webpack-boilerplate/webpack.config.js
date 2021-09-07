@@ -36,8 +36,8 @@ module.exports = {
     plugins:[
         new HtmlWebpackPlugin({
             template: './src/views/index.html',
-            inject: true,
-            filename: 'views/index.html'
+            //inject: true,
+            //filename: 'views/index.html'
         }),
         new CleanWebpackPlugin()
     ]
