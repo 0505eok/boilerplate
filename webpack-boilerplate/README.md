@@ -1,4 +1,4 @@
-# webpack bpolerplate
+# webpack boilerplate
 ## 실행
 open dist/views/index.html 통해 화면볼 수 있음.
 npm run build 를 통해 빌드 할 수 있음.
